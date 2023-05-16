@@ -31,4 +31,18 @@ There is a much better balance of the data now. Both high and low risk loans are
 This appears to be a very good evaluation of high and low risk loans.
 ![balance](images/_754842bc-89bd-4477-bf29-6077910e287b.jpg)
 
+## Resources:
+pictures
+https://www.istockphoto.com/illustrations/credit-risk
+https://www.bing.com/images/create/accurate-credit-risk-predictions/6463943a99fb4580bde76b5e6fb88d84?FORM=GENCRE
+
+ChatGPT - checking syntax
+https://chat.openai.com/
+
+scikit-learn - definitions for scikit functions
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html
+
+
+stackoverflow for error corrections
+https://stackoverflow.com/
 
