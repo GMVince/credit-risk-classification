@@ -1,5 +1,5 @@
 # Credit-Risk-Classification Challenge
-![](istockphoto.jpeg)
+(istockphoto.jpeg)
 #Instructions
 The instructions for this Challenge are divided into the following subsections:
 
